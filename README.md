@@ -1,6 +1,6 @@
 # Data sources
 
-[wholesale](https://www.kaggle.com/ahmettezcantekin/beginner-datasets?)
+wholesale: [Kaggle](https://www.kaggle.com/ahmettezcantekin/beginner-datasets?)
 
 book_sales:
 U.S. Census Bureau  	
